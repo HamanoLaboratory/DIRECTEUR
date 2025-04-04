@@ -19,7 +19,7 @@ python main.py -i {} -t {} -n {} -e {} -optD {} -tarD {} -out {}
 -i : default = 10 # Maximum number of iterations
 -t : default = 60 # Maximum execution time (sec)
 -n : default = 5  # Number of elements to include in the combination.
--e : default = 3  # Number of sub objective functions
+-e : default = 2  # Number of sub objective functions
 -optD : # Transcriptome data to optimize
 -tarD : # Transcriptome data during Direct Reprogramming
 -out : # Output file name
